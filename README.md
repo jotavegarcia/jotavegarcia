@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue nas redes abaixo!
+  ### Para conteúdos sobre programação me segue nas redes abaixo!
  
 <div> 
   <a href = "mailto:jvgarcia_m@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
